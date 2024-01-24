@@ -1,0 +1,9 @@
+unstructured
+langchain
+openai
+pypdf
+tiktoken
+pincone-client
+pandas
+numpy
+pyhton-dotenv
